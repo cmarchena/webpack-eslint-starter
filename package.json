@@ -1,0 +1,9 @@
+{
+  "name": "webpack-eslint-starter",
+  "version": "1.0.0",
+  "description": "A starter kit for webpack and eslint",
+  "main": "index.js",
+  "repository": "https://github.com/cmarchena/webpack-eslint-starter.git",
+  "author": "Carlos Marchena",
+  "license": "MIT"
+}
